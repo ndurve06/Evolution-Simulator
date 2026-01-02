@@ -1,0 +1,14 @@
+10
+10
+1
+2
+3
+0.01
+0.02
+0.03
+[(5,4)] 
+[(1,1), (2,2), (3,3)]
+[(7,7), (8,8), (9,9)]
+10
+Welcome! Here is a tutorial for using this simulator. It is a program designed to predict the growth of bacteria in a chosen environment. You will need to select the size of the grid, which acts as the environment's area. For best results, place the starting cell near the centre and 10 to 20 is ideal for the size. The genetic composition of the original cell will be inputted as a choice. This includes the genotype, and phenotype alongside the weather in the simulation. Radiation can affect the growth of bacteria; it is not required but it is an option.  
+In the environment you will need to select the starting position, nutrients and obstacles including its counts. Finally, you will need to decide the number of times cell division occurs (simulation cycles). This is a simulation for mitosis, where each cell is intended as the exact copy of the original cell genetics. A tutorial simulation will run next with predetermined values so that you can see what is to be expected. After the tutorial simulation, you shall be returned to the main program to have a go yourself!
